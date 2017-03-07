@@ -1,5 +1,8 @@
 {
- "name": "App",
+ "name": "Cat Page",
+    "short_name": "Cat",   
+    "background_color": "#2196F3",
+
  "icons": [
   {
    "src": "android-icon-36x36.png",
